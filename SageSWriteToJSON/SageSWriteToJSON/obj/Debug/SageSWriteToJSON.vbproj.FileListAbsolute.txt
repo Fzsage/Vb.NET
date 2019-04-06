@@ -1,0 +1,15 @@
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\SageSWriteToJSON.exe.config
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\SageSWriteToJSON.exe
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\SageSWriteToJSON.pdb
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\SageSWriteToJSON.xml
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.vbprojAssemblyReference.cache
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.Resources.resources
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.vbproj.GenerateResource.cache
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.vbproj.CoreCompileInputs.cache
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.vbproj.CopyComplete
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.exe
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.xml
+C:\Users\Sage\source\repos\SageSWriteToJSON\SageSWriteToJSON\obj\Debug\SageSWriteToJSON.pdb

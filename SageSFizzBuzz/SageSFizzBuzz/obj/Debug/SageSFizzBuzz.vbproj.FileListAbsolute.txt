@@ -1,0 +1,22 @@
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.exe.config
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.exe
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.pdb
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.xml
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbprojAssemblyReference.cache
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.Resources.resources
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbproj.GenerateResource.cache
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbproj.CoreCompileInputs.cache
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.exe
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.xml
+C:\Users\Sage\AppData\Local\Temporary Projects\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.pdb
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.exe.config
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.exe
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.pdb
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\bin\Debug\SageSFizzBuzz.xml
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbprojAssemblyReference.cache
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.Resources.resources
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbproj.GenerateResource.cache
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.vbproj.CoreCompileInputs.cache
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.exe
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.xml
+C:\Users\Sage\source\repos\SageSFizzBuzz\SageSFizzBuzz\obj\Debug\SageSFizzBuzz.pdb
